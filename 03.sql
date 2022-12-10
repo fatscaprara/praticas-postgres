@@ -1,0 +1,1 @@
+SELECT * FROM produto WHERE nome = 'Televisão 43"';
